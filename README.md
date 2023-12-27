@@ -32,7 +32,7 @@ python leakcheck.py
 For detailed information about the LeakCheck API, visit [LeakCheck API Documentation](https://wiki.leakcheck.io/en/api).
 
 ## Contributing
-This project is not being actively maintained, but feel free to fork and modify as you see fit.
+This project is not being actively maintained.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
