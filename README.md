@@ -16,9 +16,9 @@ This repository contains a Python-based tool designed to interact with the LeakC
 To use this program, clone this repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/yourusername/leakcheck-python.git
+git clone https://github.com/durk0123/leakcheck-python.git
 cd leakcheck-python
-pip install -r requirements.txt
+pip install requests
 ```
 
 ## Usage
