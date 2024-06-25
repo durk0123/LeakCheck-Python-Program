@@ -21,9 +21,9 @@ DEFAULT_CONFIG = {
     "api_key": "YOUR_API_KEY",
     "logging_enabled": True,
     "settings": {
-        "output_format": "csv",
+        "output_format": "json",
         "exclude_unknown": False,
-        "save_raw_json_response": True,
+        "save_raw_json_response": False,
         "rate_limit_retry_seconds": 60
     }
 }
