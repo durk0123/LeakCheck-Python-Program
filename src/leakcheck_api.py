@@ -25,7 +25,7 @@ class LeakCheckApi:
                 response = requests.get(url, headers=headers, params=params)
 
                 if response.status_code == 502:
-                    print("\033[38;2;255;99;71m✗'\033[0m API server is down [502 Bad Gateway]", False)
+                    print("\033[38;2;255;99;71m✗'\033[0m API server is down [502 Bad Gateway]")
 
                 response.raise_for_status()
                 data = response.json()
