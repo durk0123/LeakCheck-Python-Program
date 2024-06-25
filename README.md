@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ## Configuration
 Before running the program, ensure you have your API key in the `config/config.json` file. You can obtain your API key from the LeakCheck account settings.
 
-Different types of output formats:
+Available types of output formats:
 `csv`, `json`, `combolist`
 
 ### Sample `config.json`:
